@@ -37,6 +37,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'sidekiq'
 gem 'pg'
+gem 'nokogiri', '1.10.3'
 gem 'whenever', :require => false
 
 group :development, :test do
